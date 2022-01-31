@@ -26,3 +26,5 @@ include_once __DIR__ . "/exception/UserHasNotEnoughBalanceException.php";
 include_once __DIR__ . "/exception/AmountNotAddedException.php";
 include_once __DIR__ . "/exception/TransactionFaultUnknownException.php";
 include_once __DIR__ . "/exception/TransactionNotAuthenticatedException.php";
+
+include_once __DIR__ . "/controller/UserController.php";
